@@ -8,7 +8,7 @@
 
 **E**
 
-E-mail: É Uma ferramenta onde podemos enviar e receber mensagens através da internet. Nas mensagens é possível colocar arquivos ou fotos de todo tipo.
+E-mail: É uma ferramenta onde podemos enviar e receber mensagens através da internet. Nas mensagens é possível colocar arquivos ou fotos de todo tipo.
 
 **F**
 
