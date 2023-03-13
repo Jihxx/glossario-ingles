@@ -1,4 +1,4 @@
-# glossário-inglês (Dez palavras)
+# glossário-inglês (Oito palavras)
 
 **A**
 
