@@ -8,7 +8,7 @@
 
 **E**
 
-E-mail: It is a tool where we can send and receive messages over the internet. In the messages it is possible to place files or photos of all kinds.
+E-mail: It's a tool where we can send and receive messages over the internet. In the messages it is possible to place files or photos of all kinds.
 
 **F**
 
