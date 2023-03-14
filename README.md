@@ -8,25 +8,25 @@
 
 **E**
 
-E-mail: É uma ferramenta onde podemos enviar e receber mensagens através da internet. Nas mensagens é possível colocar arquivos ou fotos de todo tipo.
+E-mail: It is a tool where we can send and receive messages over the internet. In the messages it is possible to place files or photos of all kinds.
 
 **F**
 
 **G**
 
-Gigabytes: Unidade de medida de capacidade de memória que vale 1,000 megabytes. (Kilobyte= 1000 bytes; Megabyte= 1000 kilobytes; Gigabyte= 1000 megabytes; Terabyte= 1000 gigabytes).
+Gigabytes: A unit of measurement for memory capacity equaling 1,000 megabytes. (Kilobyte= 1000 bytes; Megabyte= 1000 kilobytes; Gigabyte= 1000 megabytes; Terabyte= 1000 gigabytes).
 
 **H**
 
-Hacker: Alguém com bastante conhecimento em sistemas de computadores; para ter acesso a informações pessoais, privados ou não permitidos.
+Hacker: Someone with a lot of knowledge in computer systems; to gain access to personal, private or unauthorized information.
 
-Home-page: Página de entrada de um site.
+Home-page: Homepage of a website.
 
 Hot-link: 
 
 **I**
 
-Internet: Rede de computador onde podemos conectar, relacionar computadores ao redor do mundo. (Como trocar dados e mensagens).
+Internet: Computer network where we can connect, relate computers around the world. (How to exchange data and messages).
 
 **J**
 
@@ -46,7 +46,7 @@ Internet: Rede de computador onde podemos conectar, relacionar computadores ao r
 
 **S**
 
-Site: Páginas constituídas por uma ou mais; onde contém textos, gráficos e informações.
+Site: Pages consisting of one or more; where it contains texts, graphics and information.
 
 **T**
 
@@ -56,7 +56,7 @@ Site: Páginas constituídas por uma ou mais; onde contém textos, gráficos e i
 
 **W**
 
-Web site: Web (rede) e site (sítio); Possuí o mesmo significado que o site, mas é utilizado para fazer referência a uma página, exemplo: World Wide Web ou “www”.
+Web site: Web (network) and site (site); It has the same meaning as the website, but is used to refer to a page, for example: World Wide Web or “www”.
 
 **X**
 
