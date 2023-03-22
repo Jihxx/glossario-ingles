@@ -22,7 +22,7 @@ Hacker: Someone with a lot of knowledge in computer systems; to gain access to p
 
 Home-page: Homepage of a website.
 
-Hot-link: A hot link is a word or phrase in a hypertext document that can be selected in order to access additional information.
+Hot-link: It's a word or phrase in a hypertext document that can be selected in order to access additional information.
 
 **I**
 
